@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70324882-4bf3-43d0-a07a-ccc432e0f55e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/problemsolving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/problemsolving.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/div_2_665.py" beforeDir="false" afterPath="$PROJECT_DIR$/div_2_665.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +47,8 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.array_and_peaks">
-    <configuration name="add_and_devide" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.practice">
+    <configuration name="arithmatic_arry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problemsolving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +61,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_and_devide.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arithmatic_arry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array_and_peaks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="colour_the _flag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problemsolving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array_and_peaks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colour_the _flag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dense_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="linkedlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problemsolving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +105,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dense_array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedlist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rootcube" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nasita_and_nearly_good_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problemsolving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +127,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rootcube.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nasita_and_nearly_good_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shifting_stacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problemsolving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shifting_stacks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,19 +159,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.add_and_devide" />
-      <item itemvalue="Python.dense_array" />
-      <item itemvalue="Python.rootcube" />
-      <item itemvalue="Python.shifting_stacks" />
-      <item itemvalue="Python.array_and_peaks" />
+      <item itemvalue="Python.arithmatic_arry" />
+      <item itemvalue="Python.nasita_and_nearly_good_number" />
+      <item itemvalue="Python.linkedlist" />
+      <item itemvalue="Python.colour_the _flag" />
+      <item itemvalue="Python.practice" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.array_and_peaks" />
-        <item itemvalue="Python.shifting_stacks" />
-        <item itemvalue="Python.rootcube" />
-        <item itemvalue="Python.dense_array" />
-        <item itemvalue="Python.add_and_devide" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.colour_the _flag" />
+        <item itemvalue="Python.nasita_and_nearly_good_number" />
+        <item itemvalue="Python.linkedlist" />
+        <item itemvalue="Python.arithmatic_arry" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +197,24 @@
       <workItem from="1613799036083" duration="670000" />
       <workItem from="1619025147104" duration="5392000" />
       <workItem from="1619079329201" duration="3687000" />
+      <workItem from="1619109765550" duration="1090000" />
+      <workItem from="1619169386702" duration="510000" />
+      <workItem from="1622308741885" duration="516000" />
+      <workItem from="1623950637679" duration="8328000" />
+      <workItem from="1623987045682" duration="7983000" />
+      <workItem from="1624079520189" duration="6242000" />
+      <workItem from="1624093242080" duration="7720000" />
+      <workItem from="1624168164705" duration="2885000" />
+      <workItem from="1624287141563" duration="7737000" />
+      <workItem from="1624339588123" duration="3596000" />
+      <workItem from="1624343726598" duration="17000" />
+      <workItem from="1624371444203" duration="9483000" />
+      <workItem from="1624468604925" duration="1878000" />
+      <workItem from="1624513281441" duration="6023000" />
+      <workItem from="1624927765606" duration="15672000" />
+      <workItem from="1624976138184" duration="3302000" />
+      <workItem from="1625026277552" duration="39525000" />
+      <workItem from="1625286941646" duration="18700000" />
     </task>
     <servers />
   </component>
@@ -230,12 +244,25 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/problemsolving$array_and_peaks.coverage" NAME="array_and_peaks Coverage Results" MODIFIED="1619082463949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/problemsolving$test.coverage" NAME="test Coverage Results" MODIFIED="1613323846925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/problemsolving$rootcube.coverage" NAME="rootcube Coverage Results" MODIFIED="1613670168663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/problemsolving$dense_array.coverage" NAME="dense_array Coverage Results" MODIFIED="1613656847623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/problemsolving$shifting_stacks.coverage" NAME="shifting_stacks Coverage Results" MODIFIED="1613738501986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/problemsolving$add_and_devide.coverage" NAME="add_and_devide Coverage Results" MODIFIED="1613330126611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$nasita_and_nearly_good_number.coverage" NAME="nasita_and_nearly_good_number Coverage Results" MODIFIED="1625027580756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$colour_the__flag.coverage" NAME="colour_the _flag Coverage Results" MODIFIED="1625055976499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/problemsolving$global_round.coverage" NAME="global_round Coverage Results" MODIFIED="1612859985358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$practice.coverage" NAME="practice Coverage Results" MODIFIED="1625308937182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$stone_game.coverage" NAME="stone_game Coverage Results" MODIFIED="1624935741923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$Eshag_loves_big_arrays.coverage" NAME="Eshag_loves_big_arrays Coverage Results" MODIFIED="1622308848577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$arithmatic_arry.coverage" NAME="arithmatic_arry Coverage Results" MODIFIED="1624950033456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$linkedlist.coverage" NAME="linkedlist Coverage Results" MODIFIED="1625026286321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$dense_array.coverage" NAME="dense_array Coverage Results" MODIFIED="1613656847623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$array_reordering.coverage" NAME="array_reordering Coverage Results" MODIFIED="1624342503405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$cotest_start.coverage" NAME="cotest_start Coverage Results" MODIFIED="1624521649820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$add_and_devide.coverage" NAME="add_and_devide Coverage Results" MODIFIED="1613330126611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$shifting_stacks.coverage" NAME="shifting_stacks Coverage Results" MODIFIED="1613738501986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$friends_and_candies.coverage" NAME="friends_and_candies Coverage Results" MODIFIED="1624929851053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$Love_song.coverage" NAME="Love_song Coverage Results" MODIFIED="1624468741277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$bad_boy.coverage" NAME="bad_boy Coverage Results" MODIFIED="1624946766532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$omkar_and_bad_story.coverage" NAME="omkar_and_bad_story Coverage Results" MODIFIED="1623993373398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$array_and_peaks.coverage" NAME="array_and_peaks Coverage Results" MODIFIED="1622308789345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$rootcube.coverage" NAME="rootcube Coverage Results" MODIFIED="1613670168663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/problemsolving$test.coverage" NAME="test Coverage Results" MODIFIED="1613323846925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
